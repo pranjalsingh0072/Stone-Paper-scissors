@@ -1,4 +1,4 @@
-# Project-1
+Stone Paper & scissors 
 Stone Paper &amp; scissors  project using with HTML, CSS or JavaScript.
 User Interface: Design a user-friendly interface where players can easily make their choices (stone, paper, or scissors) and see the result of the game.
 
